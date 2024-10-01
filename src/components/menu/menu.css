@@ -1,0 +1,9 @@
+.dedeza{
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 20px; */
+    height: 45px;
+    color: rgb(5, 0, 0);
+    width: 100%;
+
+}

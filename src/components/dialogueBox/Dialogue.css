@@ -1,0 +1,33 @@
+.dialogue {
+  width: 60%;
+  /* margin-right: 10%; */
+  /* margin-left: 10%; */
+  border-radius: 20px;
+  border: none;
+  min-height: 200px;
+}
+
+.description {
+  resize: none;
+  width: 100%;
+}
+
+.profile-img {
+  margin-top: 20px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+button{
+  background-color: green;
+  color: white;
+  border: none;
+  height: 50px;
+  border-radius: 15px;
+  position: sticky;
+}
+
+button:hover{background: rgb(34, 211, 231);
+
+}
